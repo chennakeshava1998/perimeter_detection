@@ -3,6 +3,9 @@
 I intend to reproduce the results from the paper [On Boundary Detection of 2-D and 3-D Wireless
 Sensor Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6134480) in this repository.
 
+The text files have been obtained from http://www.cnrl.colostate.edu/Projects/VCS/Sensor-Net.html
+The corresponding `.png` files are generated using `visualize_network.py`
+
 - `datasets/` folder contains the `.txt` and their corresponding visualizations using matplotlib library in `.png` format.
 
 - `calculate_virtual_coordinates.py` : 
